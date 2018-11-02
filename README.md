@@ -1,4 +1,4 @@
-#Bài 1: Hệ thống đèn giao thông tại một ngã tư
+# Bài 1: Hệ thống đèn giao thông tại một ngã tư
 -	Tần số chính 40 MHz
 -	Đèn đỏ dừng 50 giây
 -	Đèn xanh dừng 40 giây
